@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fantasmas Filosóficos</string>
+    <string name="description">Faça o teste e descubra já quais fantasmas da filosofia assombram seu modo pensar e agir!</string>
+    <string name="aboutTitle">Sobre</string>
+    <string name="aboutText">Este aplicativo foi desenvolvido com fins acadêmicos pelos estudantes do curso de Análise e Desenvolvimento de Sistemas da FATEC Zona Leste: \n- André Rodrigues \n- Cássio Queiroz \n- Guilherme Ruiz \n- Gustavo Minhaco</string>
+
+    
+    <string name="ghosts">Seus fantasmas filosóficos são:</string>
+    
+    <string name="aristotle">%1$s Aristóteles</string>
+    <string name="aristotleText">Você é ou busca ser feliz, como aristóteles, você acredita na ética eudemonista que busca o que é é o bem agir em escala humana, o agir segundo a virtude.</string>
+    
+    <string name="kant">%1$s Kant</string>
+    <string name="kantText">Você acredita que o valor moral de qualquer ação reside em sí mesma, ou seja,na sua intenção, sem considerar o resultado.Sem conhecer as intenções dos agentes não é possível determinar o valor moral das ações.</string>
+    
+    <string name="plato">%1$s Platão</string>
+    <string name="platoText">Você é no mínimo altruísta ! Você acredita que o melhor é conduzir o homem a prática do bem, o bem que transcede até mesmo os bens materiais.
+Talvez até consiga desapegar-se de seus prazeres e abraçar as suas virtudes.</string>
+    
+    <string name="socrates">%1$s Sócrates</string>
+    <string name="socratesText">O homem da lei. Para você, a lei é o divisor entre a civilização e a barbárie, as regras devem ser as mesmas para todos e a educação é sem dúvida o maior gerador de bem coletivo.</string>
+    
+    
+</resources>
