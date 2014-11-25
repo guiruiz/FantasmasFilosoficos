@@ -9,7 +9,7 @@ public class FantasmasFilosoficos {
 	public static void resetValues() {
 		PERCENT_PLATO = 0;
 		PERCENT_KANT = 0;
-		PERCENT_SOCRATES = 0;
+		PERCENT_ARISTOTLE = 0;
 		PERCENT_SOCRATES = 0;
 	}
 }
